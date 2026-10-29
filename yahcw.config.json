@@ -1,0 +1,17 @@
+﻿{
+  "corner": "TopLeft",
+  "dwellMs": 180,
+  "triggerSizePx": 2,
+  "rearmDistancePx": 24,
+  "cooldownMs": 700,
+  "hotkeyEnabled": true,
+  "hotkeyModifiers": "Ctrl+Alt",
+  "hotkeyKey": "Space",
+  "maxThumbnails": 32,
+  "suspendOnGameProcessRunning": false,
+  "checkRunningGamesIntervalMs": 5000,
+  "isPaused": false,
+  "blockedProcesses": [
+
+  ]
+}

@@ -1,0 +1,28 @@
+# Binarios e compilação
+*.exe
+*.dll
+*.pdb
+*.ilk
+bin/
+obj/
+
+# Artefatos temporarios e relatorios de testes
+tests/temp/
+*.png
+*.log
+diagnostics.txt
+controls-diagnose.txt
+
+# Backups e arquivos temporarios
+backups/
+*.bak
+*.backup*
+*.encoding-backup
+*~
+
+# IDE e ferramentas
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
